@@ -1,4 +1,4 @@
-# Learn from chai aur code
+# Learn from patel code
 
 ## Install
 
