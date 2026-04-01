@@ -1,4 +1,4 @@
 this is first file.
-add another file ti folder and commit it.
-add another file ti folder and commit it.
-add another file ti folder and commit it.
+add another file to folder and commit it.
+add another file to folder and commit it.
+add another file to folder and commit it.
